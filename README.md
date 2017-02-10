@@ -1,2 +1,2 @@
-# react-spencly
+# react-specly
 Auto-generated specs for React components
